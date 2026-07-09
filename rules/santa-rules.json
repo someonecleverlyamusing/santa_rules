@@ -7,9 +7,7 @@
       "custom_msg": "This app is blocked by school policy.",
       "comment": "Test block rule for Apple Chess.",
       "cel_expr": ""
-    }
-  ]
-},
+    },
     {
       "policy": "BLOCKLIST",
       "rule_type": "SIGNINGID",
