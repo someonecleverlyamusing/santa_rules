@@ -21,7 +21,7 @@
       "rule_type": "SIGNINGID",
       "identifier": "platform:com.apple.bootcampassistant",
       "custom_msg": "This app is blocked by school policy.",
-      "comment": "Test block rule for Apple Freeform.",
+      "comment": "Test block rule for Apple Bootcamp Assistant.",
       "cel_expr": ""
     },
     {
@@ -29,7 +29,15 @@
       "rule_type": "SIGNINGID",
       "identifier": "platform:com.apple.airport.airportutility",
       "custom_msg": "This app is blocked by school policy.",
-      "comment": "Test block rule for Apple Freeform.",
+      "comment": "Test block rule for Apple Airport Utility.",
+      "cel_expr": ""
+    },
+    {
+      "policy": "BLOCKLIST",
+      "rule_type": "SIGNINGID",
+      "identifier": "platform:com.apple.findmy",
+      "custom_msg": "This app is blocked by school policy.",
+      "comment": "Test block rule for Apple Find My.",
       "cel_expr": ""
     }
   ]
