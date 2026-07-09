@@ -23,6 +23,14 @@
       "custom_msg": "This app is blocked by school policy.",
       "comment": "Test block rule for Apple Freeform.",
       "cel_expr": ""
+    },
+    {
+      "policy": "BLOCKLIST",
+      "rule_type": "SIGNINGID",
+      "identifier": "platform:com.apple.airport.airportutility",
+      "custom_msg": "This app is blocked by school policy.",
+      "comment": "Test block rule for Apple Freeform.",
+      "cel_expr": ""
     }
   ]
 }
