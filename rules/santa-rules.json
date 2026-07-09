@@ -9,4 +9,14 @@
       "cel_expr": ""
     }
   ]
+},
+    {
+      "policy": "BLOCKLIST",
+      "rule_type": "SIGNINGID",
+      "identifier": "platform:com.apple.stocks",
+      "custom_msg": "This app is blocked by school policy.",
+      "comment": "Test block rule for Apple Stocks.",
+      "cel_expr": ""
+    }
+  ]
 }
