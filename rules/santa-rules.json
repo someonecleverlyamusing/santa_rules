@@ -107,6 +107,14 @@
     {
       "policy": "BLOCKLIST",
       "rule_type": "SIGNINGID",
+      "identifier": "43AQ936H96:org.mozilla.firefox",
+      "custom_msg": "This app is blocked by school policy.",
+      "comment": "Test block rule.",
+      "cel_expr": ""
+    },
+    {
+      "policy": "BLOCKLIST",
+      "rule_type": "SIGNINGID",
       "identifier": "platform:com.apple.Automator",
       "custom_msg": "This app is blocked by school policy.",
       "comment": "Test block rule.",
@@ -114,3 +122,4 @@
     }
   ]
 }
+43AQ936H96:org.mozilla.firefox
