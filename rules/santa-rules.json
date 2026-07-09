@@ -47,6 +47,70 @@
       "custom_msg": "This app is blocked by school policy.",
       "comment": "Test block rule for Time Machine.",
       "cel_expr": ""
+    },
+    {
+      "policy": "BLOCKLIST",
+      "rule_type": "SIGNINGID",
+      "identifier": "platform:com.apple.ScreenSharing",
+      "custom_msg": "This app is blocked by school policy.",
+      "comment": "Test block rule for Screen Sharing.",
+      "cel_expr": ""
+    },
+    {
+      "policy": "BLOCKLIST",
+      "rule_type": "SIGNINGID",
+      "identifier": "platform:com.apple.ScriptEditor2",
+      "custom_msg": "This app is blocked by school policy.",
+      "comment": "Test block rule.",
+      "cel_expr": ""
+    },
+    {
+      "policy": "BLOCKLIST",
+      "rule_type": "SIGNINGID",
+      "identifier": "platform:com.apple.DiskUtility",
+      "custom_msg": "This app is blocked by school policy.",
+      "comment": "Test block rule.",
+      "cel_expr": ""
+    },
+    {
+      "policy": "BLOCKLIST",
+      "rule_type": "SIGNINGID",
+      "identifier": "platform:com.apple.FaceTime",
+      "custom_msg": "This app is blocked by school policy.",
+      "comment": "Test block rule.",
+      "cel_expr": ""
+    },
+    {
+      "policy": "BLOCKLIST",
+      "rule_type": "SIGNINGID",
+      "identifier": "platform:com.apple.MobileSMS",
+      "custom_msg": "This app is blocked by school policy.",
+      "comment": "Test block rule.",
+      "cel_expr": ""
+    },
+    {
+      "policy": "BLOCKLIST",
+      "rule_type": "SIGNINGID",
+      "identifier": "platform:com.apple.ScreenContinuity",
+      "custom_msg": "This app is blocked by school policy.",
+      "comment": "Test block rule.",
+      "cel_expr": ""
+    },
+    {
+      "policy": "BLOCKLIST",
+      "rule_type": "SIGNINGID",
+      "identifier": "platform:com.apple.AppStore",
+      "custom_msg": "This app is blocked by school policy.",
+      "comment": "Test block rule.",
+      "cel_expr": ""
+    },
+    {
+      "policy": "BLOCKLIST",
+      "rule_type": "SIGNINGID",
+      "identifier": "platform:com.apple.Automator",
+      "custom_msg": "This app is blocked by school policy.",
+      "comment": "Test block rule.",
+      "cel_expr": ""
     }
   ]
 }
