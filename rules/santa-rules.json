@@ -19,7 +19,7 @@
     {
       "policy": "BLOCKLIST",
       "rule_type": "SIGNINGID",
-      "identifier": "com.apple.bootcampassistant",
+      "identifier": "platform:com.apple.bootcampassistant",
       "custom_msg": "This app is blocked by school policy.",
       "comment": "Test block rule for Apple Freeform.",
       "cel_expr": ""
