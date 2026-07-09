@@ -119,6 +119,14 @@
       "custom_msg": "This app is blocked by school policy.",
       "comment": "Test block rule.",
       "cel_expr": ""
+    },
+    {
+      "policy": "BLOCKLIST",
+      "rule_type": "SIGNINGID",
+      "identifier": "platform:com.apple.mobilephone",
+      "custom_msg": "This app is blocked by school policy.",
+      "comment": "Test block rule.",
+      "cel_expr": ""
     }
   ]
 }
