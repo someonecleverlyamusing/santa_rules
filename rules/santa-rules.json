@@ -39,6 +39,14 @@
       "custom_msg": "This app is blocked by school policy.",
       "comment": "Test block rule for Apple Find My.",
       "cel_expr": ""
+    },
+    {
+      "policy": "BLOCKLIST",
+      "rule_type": "SIGNINGID",
+      "identifier": "platform:com.apple.backup.launcher",
+      "custom_msg": "This app is blocked by school policy.",
+      "comment": "Test block rule for Time Machine.",
+      "cel_expr": ""
     }
   ]
 }
